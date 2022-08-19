@@ -1,0 +1,79 @@
+====[from=15341653, 0xea1855] [to=15343653, 0xea2025]====
+count: 3, value: 123415078313064808111
+total_count: 3, total_value: 123415078313064808111
+
+====[from=15343654, 0xea2026] [to=15345654, 0xea27f6]====
+count: 1, value: 950000000000000
+total_count: 4, total_value: 123416028313064808111
+
+====[from=15345655, 0xea27f7] [to=15347655, 0xea2fc7]====
+count: 16, value: 1284472184141838018650
+total_count: 20, total_value: 1407888212454902826761
+
+====[from=15347656, 0xea2fc8] [to=15349656, 0xea3798]====
+count: 14, value: 4040561861759657840436
+total_count: 34, total_value: 5448450074214560667197
+
+====[from=15349657, 0xea3799] [to=15351657, 0xea3f69]====
+count: 5, value: 26286285295086991986
+total_count: 39, total_value: 5474736359509647659183
+
+====[from=15351658, 0xea3f6a] [to=15353658, 0xea473a]====
+count: 4, value: 50010000000000000000
+total_count: 43, total_value: 5524746359509647659183
+
+====[from=15353659, 0xea473b] [to=15355659, 0xea4f0b]====
+count: 4, value: 49722346893711079890
+total_count: 47, total_value: 5574468706403358739073
+
+====[from=15355660, 0xea4f0c] [to=15357660, 0xea56dc]====
+count: 3, value: 1014000138536000000000
+total_count: 50, total_value: 6588468844939358739073
+
+====[from=15357661, 0xea56dd] [to=15359661, 0xea5ead]====
+count: 3, value: 1049168840548122290000
+total_count: 53, total_value: 7637637685487481029073
+
+====[from=15359662, 0xea5eae] [to=15361662, 0xea667e]====
+count: 2, value: 10000000000000000
+total_count: 55, total_value: 7637647685487481029073
+
+====[from=15361663, 0xea667f] [to=15363663, 0xea6e4f]====
+count: 6, value: 13053062274000000000
+total_count: 61, total_value: 7650700747761481029073
+
+====[from=15363664, 0xea6e50] [to=15365664, 0xea7620]====
+count: 8, value: 813189965888850080000
+total_count: 69, total_value: 8463890713650331109073
+
+====[from=15365665, 0xea7621] [to=15367665, 0xea7df1]====
+count: 7, value: 2846459148213994717000
+total_count: 76, total_value: 11310349861864325826073
+
+====[from=15367666, 0xea7df2] [to=15369666, 0xea85c2]====
+count: 4, value: 339000000000000000000
+total_count: 80, total_value: 11649349861864325826073
+
+====[from=15369667, 0xea85c3] [to=15371667, 0xea8d93]====
+count: 11, value: 42020535906219977818
+total_count: 91, total_value: 11691370397770545803891
+
+====[from=15371668, 0xea8d94] [to=15373668, 0xea9564]====
+count: 14, value: 300012875223000000000
+total_count: 105, total_value: 11991383272993545803891
+
+====[from=15373669, 0xea9565] [to=15375669, 0xea9d35]====
+count: 14, value: 1559267781586496489709
+total_count: 119, total_value: 13550651054580042293600
+
+====[from=15375670, 0xea9d36] [to=15377670, 0xeaa506]====
+count: 17, value: 269748907060229866696
+total_count: 136, total_value: 13820399961640272160296
+
+====[from=15377671, 0xeaa507] [to=15379671, 0xeaacd7]====
+count: 8, value: 223846793357147355015
+total_count: 144, total_value: 14044246754997419515311
+
+====[from=15379672, 0xeaacd8] [to=15381034, 0xeab22a]====
+count: 7, value: 51012510257000000000
+total_count: 151, total_value: 14095259265254419515311
