@@ -1,0 +1,6 @@
+type TransferCounter @entity {
+  id: ID!
+  count: Int!
+  totalTransferred: BigInt!
+  blockNumber: BigInt!
+}
